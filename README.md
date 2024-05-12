@@ -2,6 +2,8 @@
 
 Amazon Clone created with pure HTML and CSS.
 
+![screenshot](Clone.png)
+
 ### Note
 
 1. Non-responsive.
