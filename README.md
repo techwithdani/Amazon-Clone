@@ -2,7 +2,7 @@
 
 Amazon Clone created with pure HTML and CSS.
 
-![screenshot](Clone.png)
+![screenshot](pictures/Clone.png)
 
 ### Note
 
